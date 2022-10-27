@@ -3,7 +3,7 @@ grave = 0
 assintomatico = 0
  
 for i in range(10):
-    tipopaciente = input('informe tipo do paciêntie L/A/G :'  )
+    tipopaciente = input('informe tipo do paciêntie L/A/G :' )
 
 if (tipopaciente == 'L'):
     leve += 1
